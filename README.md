@@ -11,6 +11,9 @@
 ### 🧬 Code
 https://github.com/Stability-AI/stable-audio-tools
 
+### 📄 Paper
+https://arxiv.org/abs/2407.14358
+
 ### 🌐 Page
 https://stability.ai/news/introducing-stable-audio-open
 
